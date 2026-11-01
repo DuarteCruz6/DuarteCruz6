@@ -2,7 +2,7 @@
 
 I build machine learning systems, mostly in **computer vision**, and I care as much about running them well as about training them.
 
-Junior AI consultant @ **Implement Consulting Group** · MSc Autonomous Systems @ **DTU** · BSc CSE @ **IST** (Machine Learning 20/20) · ex-**Cloudflare**, ex-**Nmbrs**
+Junior AI consultant @ **The Tech Collective** (Implement Consulting Group) · MSc Autonomous Systems @ **DTU** · BSc CSE @ **IST** (Machine Learning 20/20) · ex-**Cloudflare**, ex-**Nmbrs**
 
 🌐 [duartepcruz.com](https://duartepcruz.com) (most projects have a live in-browser demo) · 💼 [LinkedIn](https://www.linkedin.com/in/duartepcruz/) · 🤗 [Hugging Face](https://huggingface.co/duartepcruz)
 
